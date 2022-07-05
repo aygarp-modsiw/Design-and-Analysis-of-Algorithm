@@ -50,11 +50,11 @@
 
 6. C programs to implement algortihms using backtracking approach
 
-   - [0/1 Knapsack problem]()
+   - [0/1 Knapsack problem](https://github.com/Pragya2056/Design-and-Analysis-of-Algorithm/blob/master/Implement%20algorithms%20using%20backtracking%20approach/knapsack-problem.c)
 
-   - [N-Queens Problem]()
+   - [N-Queens Problem](https://github.com/Pragya2056/Design-and-Analysis-of-Algorithm/blob/master/Implement%20algorithms%20using%20backtracking%20approach/N-Queen-Problem.c)
 
 
 7. C program to implement approximation algorithm
 
-   - [Vertex Cover problem]()
+   - [Vertex Cover problem](https://github.com/Pragya2056/Design-and-Analysis-of-Algorithm/blob/master/Implement%20the%20approximation%20algorithm/Vertex-Cover-Problem.c)
