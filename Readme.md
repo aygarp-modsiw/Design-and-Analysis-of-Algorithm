@@ -41,3 +41,7 @@
     - [Dijkstra's Algorithm](https://github.com/Pragya2056/Design-and-Analysis-of-Algorithm/blob/master/Implement%20and%20calculate%20space%20and%20time%20complexity%20of%20Greedy%20Algorithm/Dijkstra's-Algorithm.c)
 
     - [Huffman Coding](https://github.com/Pragya2056/Design-and-Analysis-of-Algorithm/blob/master/Implement%20and%20calculate%20space%20and%20time%20complexity%20of%20Greedy%20Algorithm/Huffman-coding.c)
+
+5. C program to implement the dynamic programming approach
+
+    - [Matrix Chain Multiplication]()
