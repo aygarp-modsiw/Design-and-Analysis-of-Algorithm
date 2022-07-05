@@ -42,6 +42,19 @@
 
     - [Huffman Coding](https://github.com/Pragya2056/Design-and-Analysis-of-Algorithm/blob/master/Implement%20and%20calculate%20space%20and%20time%20complexity%20of%20Greedy%20Algorithm/Huffman-coding.c)
 
+
 5. C program to implement the dynamic programming approach
 
-    - [Matrix Chain Multiplication]()
+    - [Matrix Chain Multiplication](https://github.com/Pragya2056/Design-and-Analysis-of-Algorithm/blob/master/Implement%20the%20dynamic%20programming%20approach/Matrix-Chain-Multiplication.c)
+
+
+6. C programs to implement algortihms using backtracking approach
+
+   - [0/1 Knapsack problem]()
+
+   - [N-Queens Problem]()
+
+
+7. C program to implement approximation algorithm
+
+   - [Vertex Cover problem]()
